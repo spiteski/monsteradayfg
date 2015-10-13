@@ -1482,3 +1482,22 @@ Snow Camouflage. The spider has advantage on Dexterity (Stealth) checks made to 
 Spider Climb. The spider can climb difficult surfaces including upside down on ceiling, without needing to make an ability check.
 ACTIONS
 Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) cold damge on a failed save, or half as much damage on a successful one. If cold damage reduces the target to 0 hit points, the target becomes frozen. A frozen creature is paralyzed, and can thaw by spending 1 hour in warm temperature or taking 15 fire damage.
+
+Winter Sprite
+Tiny Fey, Chaotic Neutral
+Armor Class 15
+Hit Points 7 (2d4 + 2)
+Speed 10 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 2 (-4) 20 (+5) 12 (+1) 10 (+0) 14 (+2) 15 (+2)
+Skills Perception +4, Stealth +7
+Damage Immunities cold
+Senses passive Perception 14
+Languages Sylvan
+Challenge 1 (200 XP)
+Magic Resistance. The sprite has advantage on saving throws against spells and other magical effects.
+Innate Spellcasting. The sprite's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+At will: druidcraft, frostbite
+1/day each: blur, counterspell, fog cloud, ice knife, sleet storms, Snilloc's snowball swarm.
+ACTIONS
+Icesickle. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 1 slashing damage, and the target must must succeed on a DC 10 Constitution saving throw or take 3 (1d6) cold damage and then be paralyzed until the end of the sprite's next turn.
+
